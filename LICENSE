@@ -1,27 +1,21 @@
-MIT License
+Software Use License
 
 Copyright © 2024 Dmitry Lesin
 
-Permission is hereby granted, free of charge, to any person obtaining a
-copy of this software and associated documentation files (the "Software"),
-to deal in the Software without restriction, including without limitation
-the rights to use, copy, modify, merge, publish, distribute, sublicense,
-and/or sell copies of the Software, and to permit persons to whom the Software
-is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software subject to the following conditions:
 
-1. Copyright Notice and Permission  
-   The above copyright notice and this permission notice shall be included
-in all copies or substantial portions of the Software.
+Copyright Notice and Permission  
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-2. Restrictions on Modification and Commercial Use  
-   The licensee may not modify the source code, use the Software for commercial
-purposes, or distribute or sell modified versions of the Software without prior
-written consent from the Licensor.
+Restrictions on Use and Distribution  
+The licensee may not:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
-THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- Sell, transfer, or sublicense the Software in any form, including modified versions.
+- Use the Software for commercial purposes without prior written consent from the Licensor.
+- Modify, adapt, create derivative works based on the Software, or distribute such works without prior written consent from the Licensor.
+
+Personal Use  
+The Software may only be used for personal, non-commercial purposes. Commercial use of the Software in any project is prohibited without prior written consent from the Licensor.
+
+Disclaimer  
+The Software is provided "as is," without any warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claims, damages, or other liabilities, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
