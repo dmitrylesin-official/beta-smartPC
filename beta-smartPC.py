@@ -80,12 +80,6 @@ voiceover_status = {
 # enter the SHODAN IP
 SHODAN_API_KEY = " "
 
-authorized_user_id = None
-
-def is_authorized(message):
-    # Check if the chat ID matches the authorized one
-    return str(message.chat.id) == authorized_user_id
-
 
 @dp.message(Command("start"))
 async def start_command(message: types.Message):
